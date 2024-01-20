@@ -8,8 +8,8 @@ Love to Explore New Technologies every day -:)
 
 ---
 
-[![LinkedIn Badge](https://img.shields.io/badge/LINKEDIN-0183BF?style=flat-square&labelColor=0183BF&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/adam-thomas-6b563012)](https://www.linkedin.com/in/bhargav-suthar/)
-[![YouTube Badge](https://img.shields.io/badge/YOUTUBE-FA0601?style=flat-square&labelColor=FA0601&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCvn-c8MnpjythwWKDi5qMvA)](https://www.youtube.com/@GiggleGalaxy73/featured)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhargav-suthar/)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@GiggleGalaxy73/featured)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/bhargav_3_suthar/)
 [![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://lifeenhancementlab.blogspot.com/)
 
