@@ -7,6 +7,7 @@ FullStack Javascript developer with consulting experience building web and mobil
 Love to Explore New Technologies every day -:)
 
 ---
+### How to Reach Me
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhargav-suthar/)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@GiggleGalaxy73/featured)
