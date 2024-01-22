@@ -4,9 +4,11 @@
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 
-FullStack Javascript developer with consulting experience building web and mobile applications. I specialize in JS and have professional experience working with React Web, React Native, and NodeJS. I also have experience working with Redux, and Storybook :)
+- FullStack Javascript developer with consulting experience building web and mobile applications.
+- I specialize in JS and have professional experience working with React Web, React Native, and NodeJS.
+- I also have experience working with Redux and Storybook.
 
-Love to Explore New Technologies every day -:)
+I love to Explore New Technologies every day -:)
 
 ---
 
