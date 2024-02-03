@@ -20,6 +20,8 @@ I'm working on an exciting project called [Easy-Fill](https://github.com/bhargav
 
 Feel free to connect with me and let's make coding more fun together! 😄
 
+Learn Here How to contribute: [Check Me](https://github.com/bhargav1997/Github/blob/ed08fc097b449492b31e187510fb01c09c157bab/How_to_contribute.md)
+
 ---
 
 <h2> Github Stats </h2> 
