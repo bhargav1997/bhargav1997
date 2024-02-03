@@ -12,7 +12,7 @@
 - I love to Explore New Technologies every day.
 
 ---
-### Current Project | Contribution 
+### Current Project Easy Fill | Contributions Welcome! 
 
 I'm working on an exciting project called [Easy-Fill](https://github.com/bhargav1997/Easy-Fill). The project aimed at the Chrome extension is designed to simplify and enhance the user experience when filling out web forms. Users can dynamically create and manage their form fields and associated data within the extension settings. The extension leverages the Chrome storage sync to securely store this user-defined form data.
 
