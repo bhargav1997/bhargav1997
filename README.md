@@ -23,11 +23,12 @@ Feel free to connect with me and let's make coding more fun together! 😄
 Learn Here How to contribute: [Check Me](https://github.com/bhargav1997/Github/blob/ed08fc097b449492b31e187510fb01c09c157bab/How_to_contribute.md)
 
 ---
-
+<!--
 <h2> Github Stats </h2> 
 <a href="https://github.com/bhargav1997/github-readme-stats"><img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhargav1997&layout=compact&theme=tokyonight" /></a>
 <img width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=bhargav1997&theme=tokyonight" alt="bhargav1997" />
 <br/>
+-->
 
 <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
 <p align="left">
