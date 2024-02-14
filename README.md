@@ -24,7 +24,7 @@ Learn Here How to contribute: [Check Me](https://github.com/bhargav1997/Github/b
 
 ---
 
-<h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
+<h3 align="left">:hammer_and_wrench: Technologies and Tools I use:</h3>
 <p align="left">
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
@@ -46,7 +46,7 @@ Learn Here How to contribute: [Check Me](https://github.com/bhargav1997/Github/b
 ---
 
 
-<h2> Github Stats </h2> 
+<h3> Github Stats </h3> 
 <a href="https://github.com/bhargav1997/github-readme-stats"><img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhargav1997&layout=compact&theme=tokyonight" /></a>
 <img width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=bhargav1997&theme=tokyonight" alt="bhargav1997" />
 <br/>
