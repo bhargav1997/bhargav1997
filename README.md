@@ -46,10 +46,9 @@ Learn Here How to contribute: [Check Me](https://github.com/bhargav1997/Github/b
 ---
 
 
-<h3> Github Stats </h3> 
+<!--<h3> Github Stats </h3> -->
 <a href="https://github.com/bhargav1997/github-readme-stats"><img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhargav1997&layout=compact&theme=tokyonight" /></a>
 <img width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=bhargav1997&theme=tokyonight" alt="bhargav1997" />
-<br/>
 
 ---
 
