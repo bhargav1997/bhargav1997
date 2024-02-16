@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Protest+Revolution&pause=1000&color=07F700&random=false&width=435&lines=Hey+there!+Nice+to+see+you+here.)](https://git.io/typing-svg)
 
 # Bhargav Suthar
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=bhargav1997)
