@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Protest+Revolution&pause=1000&color=07F700&random=false&width=435&height=30&lines=Hey+there!+Nice+to+see+you+here.)](https://git.io/typing-svg)
+### Hi there 👋
 
 # Bhargav Suthar
 
