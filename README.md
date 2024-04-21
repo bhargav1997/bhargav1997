@@ -2,7 +2,9 @@
 
 # Bhargav Suthar
 
+<!---
 ## ![visitors](https://visitor-badge.laobi.icu/badge?page_id=bhargav1997)
+-->
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 
