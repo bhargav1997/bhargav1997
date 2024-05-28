@@ -8,10 +8,7 @@
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 
-- FullStack Javascript developer with consulting experience building web and mobile applications.
-- I specialize in JS and have professional experience working with React Web, React Native, and NodeJS.
-- I also have experience working with Redux and Storybook.
-- I love to Explore New Technologies every day.
+I am an experienced Full Stack Developer with over four years in MERN stack development. Currently pursuing a Post Graduate Diploma in Web Development at Humber College, I also hold a Bachelor's Degree in Computer Engineering from GTU. I have a proven track record of leading and developing projects at Surekha Technologies and Wembley Technosoft. Proficient in React, Node.js, and Firebase, I am committed to delivering high-quality software solutions. Additionally, I actively engage in community service, volunteering for tech support and graphic design in various organizations.
 
 ---
 
