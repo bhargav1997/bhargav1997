@@ -8,7 +8,7 @@
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 
-I am an experienced Full Stack Developer with over four years in MERN stack development. Currently pursuing a Post Graduate Diploma in Web Development at Humber College, I also hold a Bachelor's Degree in Computer Engineering from GTU. I have a proven track record of leading and developing projects at Surekha Technologies and Wembley Technosoft. Proficient in React, Node.js, and Firebase, I am committed to delivering high-quality software solutions. Additionally, I actively engage in community service, volunteering for tech support and graphic design in various organizations.
+Experienced Full Stack Developer with 4+ years of IT professional experience in MERN stack development. I am looking for a Co-op position as a web developer or software developer. Skilled in front-end technologies including HTML, CSS, JavaScript, React, and Angular. Proficient in server-side development with expertise in Node.js, and experience with the LAMP stack (Linux, Apache, MySQL, PHP), C#, and Java. I know Python, which I used in college for the BRICKMMO project. This project involved designing a Smart City using LEGO. Strong understanding of software engineering principles, agile methodologies, and version control systems like GIT. Also, experienced in Search Engine Optimization (SEO) techniques for optimizing web applications to enhance visibility and ranking on search engine results pages (SERPs). Seeking opportunities to leverage my expertise in a dynamic environment to drive innovation and deliver high-quality software solutions. 
 
 ---
 
