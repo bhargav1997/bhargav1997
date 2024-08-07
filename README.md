@@ -12,18 +12,6 @@ Experienced Full Stack Developer with 4+ years of IT professional experience in 
 
 ---
 
-### Current Project Easy Fill | Contributions Welcome!
-
-I'm working on an exciting project called [Easy-Fill](https://github.com/bhargav1997/Easy-Fill). The project aimed at the Chrome extension is designed to simplify and enhance the user experience when filling out web forms. Users can dynamically create and manage their form fields and associated data within the extension settings. The extension leverages the Chrome storage sync to securely store this user-defined form data.
-
-🚀 If you're interested in contributing or just exploring the project, you're more than welcome! Check it out [here](https://github.com/bhargav1997/Easy-Fill).
-
-Feel free to connect with me and let's make coding more fun together! 😄
-
-Learn Here How to contribute: [Check Me](https://github.com/bhargav1997/Github/blob/ed08fc097b449492b31e187510fb01c09c157bab/How_to_contribute.md)
-
----
-
 <h3 align="left">:hammer_and_wrench: Technologies and Tools I use:</h3>
 <p align="left">
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
