@@ -12,6 +12,103 @@ Experienced Full Stack Developer with 4+ years of IT professional experience in 
 
 ---
 
+## 🚀 Projects
+
+### 1️⃣ SmartOptions - Advanced Trading Platform UI Kit  
+🔗 [Live Demo](https://smart-options-template.vercel.app/)  
+
+### 📌 Description
+A premium React.js trading platform template with advanced analytics, real-time data visualization, and comprehensive portfolio management tools. Built with Tailwind CSS and React.js, this UI kit is ideal for fintech startups and financial service providers.
+
+### 🌟 Key Features
+- Complete Authentication System (Login/Register, Email Verification, Password Recovery)
+- Advanced Trading Tools (Option Chain, Strategy Builder, Real-time Market Data)
+- Portfolio Management (Holdings Overview, Order Tracking, Risk Analysis)
+- Modern UI/UX (Dark/Light Theme, Responsive Design, Interactive Components)
+
+### 🛠️ Tech Stack
+- React.js 18+
+- Tailwind CSS
+- Framer Motion
+- Heroicons
+
+---
+
+## 2️⃣ Wallpaper Collage Generator  
+🔗 [Live Demo](https://wallpaper-collage-generator.vercel.app/)  
+
+### 📌 Description
+A free tool for creating stunning 4K photo collages effortlessly. Ideal for personalizing desktops with high-resolution wallpapers.
+
+### 🌟 Key Features
+- Multiple Layouts (Grid, Masonry, Random)
+- Custom Color Schemes & Frame Styles
+- 4K Export (3840 x 2160)
+- Drag & Drop Interface
+- 100% Free & Ad-Free
+
+### 🛠️ Tech Stack
+- HTML5 / CSS3
+- JavaScript (ES6+)
+- Canvas API
+
+---
+
+## 3️⃣ LearnHub - Track My Skills  
+🔗 [Live Demo](https://www.trackmyskills.tech/)  
+
+### 📌 Description
+An all-in-one platform designed to empower professionals and learners by offering custom learning paths, progress tracking, and skill development.
+
+### 🌟 Key Features
+- Custom Learning Paths
+- Progress Tracking & Milestones
+- Leaderboards & Challenges
+- Community Engagement
+- Personalized Learning Experience
+
+### 🛠️ Tech Stack
+- React.js
+- Firebase
+- Node.js
+
+---
+
+## 4️⃣ Coding Type Racer  
+🔗 [Live Demo](https://coding-type-racer.vercel.app/)  
+
+### 📌 Description
+A JavaScript-based typing practice game with three difficulty levels: easy, medium, and hard.
+
+### 🌟 Key Features
+- Typing Simulator Game Board
+- Error & Speed Tracking
+- Three Difficulty Levels
+
+### 🛠️ Tech Stack
+- HTML5 / CSS3
+- JavaScript
+
+---
+
+## 🏆 Achievements
+
+### 🎉 Completed Advent of Cyber 2024 by TryHackMe! 🎄
+Participated in TryHackMe's Advent of Cyber 2024 challenge, completing 30 days of engaging cybersecurity exercises.
+
+🔍 **Key Learnings:**
+- OPSEC & Secure Practices
+- Log Analysis & Threat Detection
+- Web & Network Security
+- Active Directory & Cloud Security
+- Reverse Engineering & Hash Cracking
+
+🙌 Special thanks to **Devendra Suthar** for the recommendation!
+
+🔗 [Learn More]([https://lnkd.in/giT45Q3T](https://tryhackme.com/room/adventofcyber2024))
+
+---
+
 <h3 align="left">:hammer_and_wrench: Technologies and Tools I use:</h3>
 <p align="left">
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
