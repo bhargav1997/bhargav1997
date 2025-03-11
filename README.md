@@ -198,7 +198,7 @@ Participated in TryHackMe's Advent of Cyber 2024 challenge, completing 30 days o
 <!--<h3> Github Stats </h3> -->
 
 <a href="https://github.com/bhargav1997/github-readme-stats"><img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhargav1997&layout=compact&theme=tokyonight" /></a>
-<img width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=bhargav1997&theme=tokyonight" alt="bhargav1997" />
+<img width="55%" src="https://avatars.githubusercontent.com/u/27812306?v=4" alt="bhargav1997" />
 
 ---
 
