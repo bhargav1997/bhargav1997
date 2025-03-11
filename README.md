@@ -105,7 +105,7 @@ Participated in TryHackMe's Advent of Cyber 2024 challenge, completing 30 days o
 
 🙌 Special thanks to **Devendra Suthar** for the recommendation!
 
-🔗 [Learn More]([https://lnkd.in/giT45Q3T](https://tryhackme.com/room/adventofcyber2024))
+🔗 [Learn More](https://tryhackme.com/room/adventofcyber2024)
 
 ---
 
