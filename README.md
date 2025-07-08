@@ -89,6 +89,36 @@ A JavaScript-based typing practice game with three difficulty levels: easy, medi
 - HTML5 / CSS3
 - JavaScript
 
+  Here’s your Crystal E-commerce project written in the same format as your example:
+
+---
+
+## 5️⃣ 🛒 Crystal E-commerce Store
+
+🔗 [Live Demo](https://crystal-ecommerce.vercel.app/)
+
+### 📌 Description
+
+A modern and fully responsive e-commerce store frontend built using React and Vite. This project showcases a professional online store interface, including features like product browsing, detailed views, checkout flow, and user profile management.
+
+### 🌟 Key Features
+
+* Home Page with Hero Section
+* Product Listing and Details View
+* Add to Cart Functionality (Frontend Only)
+* Checkout Flow UI
+* User Profile Page Design
+* Responsive Layout with Font Awesome Icons
+* Smooth Navigation using React Router
+
+### 🛠️ Tech Stack
+
+* React 19
+* React Router DOM 7
+* Vite
+* Font Awesome
+* HTML5 / CSS3
+
 ---
 
 ## 🏆 Achievements
