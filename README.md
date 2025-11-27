@@ -55,7 +55,7 @@ A free tool for creating stunning 4K photo collages effortlessly. Ideal for pers
 ---
 
 ## 3️⃣ LearnHub - Track My Skills  
-🔗 [Live Demo](https://www.trackmyskills.tech/](https://mylearnhub.vercel.app/)  
+🔗 [Live Demo](https://mylearnhub.vercel.app/) 
 
 ### 📌 Description
 An all-in-one platform designed to empower professionals and learners by offering custom learning paths, progress tracking, and skill development.
