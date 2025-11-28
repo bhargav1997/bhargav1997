@@ -119,7 +119,7 @@ A modern and fully responsive e-commerce store frontend built using React and Vi
 * Font Awesome
 * HTML5 / CSS3
 
-6️⃣ **SessionZen – Advanced Tab Management & Productivity Extension**
+## 6️⃣ **SessionZen – Advanced Tab Management & Productivity Extension**
 🔗 [Live Demo](sessionzen.app) | Chrome Extension
 
 📌 **Description**
