@@ -120,7 +120,7 @@ A modern and fully responsive e-commerce store frontend built using React and Vi
 * HTML5 / CSS3
 
 ## 6️⃣ **SessionZen – Advanced Tab Management & Productivity Extension**
-🔗 [Live Demo](sessionzen.app) | Chrome Extension
+🔗 [Live Demo](https://sessionzen.app) | Chrome Extension
 
 📌 **Description**
 SessionZen is a professional Chrome extension that transforms chaotic browsing into clean, focused, and organized work sessions.
