@@ -119,6 +119,62 @@ A modern and fully responsive e-commerce store frontend built using React and Vi
 * Font Awesome
 * HTML5 / CSS3
 
+6️⃣ **SessionZen – Advanced Tab Management & Productivity Extension**
+🔗 [Live Demo](sessionzen.app) | Chrome Extension
+
+📌 **Description**
+SessionZen is a professional Chrome extension that transforms chaotic browsing into clean, focused, and organized work sessions.
+Built for professionals, students, and developers, it combines advanced tab management, focus mode, analytics, and smart automation into one powerful productivity tool — all with a modern glassmorphism UI.
+
+---
+
+🌟 **Key Features**
+
+* **Advanced Tab Management**
+
+  * Save & restore full browsing sessions
+  * Auto-suspend inactive tabs to save up to 95% RAM
+  * Detect duplicate tabs & set tab limit warnings
+  * Smart tab grouping for projects, clients, or subjects
+
+* **Professional Focus Mode**
+
+  * Work-hours & 24/7 distraction blocking
+  * One-click blocking for YouTube, Facebook, Instagram, X/Twitter
+  * Custom domain blocklist with 5-minute break mode
+  * Motivational block pages to keep you on track
+
+* **Analytics & Productivity Insights**
+
+  * Tab usage & domain-level analytics
+  * Daily and lifetime browsing stats
+  * Productivity metrics and focus streak tracking
+
+* **Smart Automation**
+
+  * Auto-save sessions in the background
+  * Memory optimization & badge alerts
+  * Keyboard shortcuts for power users
+  * Cloud sync planned for future releases
+
+* **Modern Glassmorphism UI**
+
+  * Gradient-based, glass-style layout
+  * Clean, responsive design
+  * Intuitive navigation for fast workflows
+
+---
+
+🛠️ **Tech & Privacy**
+
+* Chrome Extension (Manifest V3)
+* Service worker–optimized architecture
+* Local storage only (no cloud, no tracking)
+* Minimal permissions, fast startup, and lightweight footprint
+
+💡 **SessionZen – Focus Better. Work Smarter.**
+
+
 ---
 
 ## 🏆 Achievements
