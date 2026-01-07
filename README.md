@@ -174,6 +174,36 @@ Built for professionals, students, and developers, it combines advanced tab mana
 
 💡 **SessionZen – Focus Better. Work Smarter.**
 
+Perfect — you don’t need to rewrite everything.
+Below is a **clean, GitHub-ready section** you can **drop directly into your README** under **Projects** (or create a new section like **Chrome Extensions**).
+It matches your existing tone, formatting, and professionalism.
+
+---
+
+## 7️⃣ ⚡ **YouTube Quick Speed & Loop Control — YouTube Productivity Extension**
+
+🔗 [Chrome Web Store](https://chromewebstore.google.com/detail/youtube-quick-speed-loop/fgfnblagkjbhdkdomhgjhljdaekajocg?utm_source=item-share-cb)
+🌐 [Landing Page](https://youtube-quick-speed.vercel.app/)
+
+📌 **Description**
+YouTube Quick Speed is a privacy-first Chrome extension that enhances YouTube viewing efficiency by giving users full control over playback speed, looping, volume, and focus — without ads tracking, accounts, or page reloads.
+
+🌟 **Key Contributions**
+
+* Developed a **YouTube productivity extension** with playback speed control up to **4×**
+* Implemented **A–B loop**, **Zen Mode**, and **volume boosting**
+* Engineered **ad-aware playback optimization** and fast-forward logic
+* Built **keyboard shortcuts** and real-time playback controls
+* Applied **DOM observation and automation** using Chrome Extension APIs
+* Ensured **zero tracking**, no external servers, and local-only execution
+
+🛠️ **Tech Stack**
+
+* Chrome Extension (Manifest V3)
+* JavaScript
+* DOM APIs & Mutation Observers
+* Chrome Extension APIs
+* Privacy-first local execution
 
 ---
 
