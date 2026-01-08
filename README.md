@@ -8,7 +8,13 @@
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 
-Experienced Full Stack Developer with 4+ years of IT professional experience in MERN stack development. I am looking for a Co-op position as a web developer or software developer. Skilled in front-end technologies including HTML, CSS, JavaScript, React, and Angular. Proficient in server-side development with expertise in Node.js, and experience with the LAMP stack (Linux, Apache, MySQL, PHP), C#, and Java. I know Python, which I used in college for the BRICKMMO project. This project involved designing a Smart City using LEGO. Strong understanding of software engineering principles, agile methodologies, and version control systems like GIT. Also, experienced in Search Engine Optimization (SEO) techniques for optimizing web applications to enhance visibility and ranking on search engine results pages (SERPs). Seeking opportunities to leverage my expertise in a dynamic environment to drive innovation and deliver high-quality software solutions. 
+Senior Full Stack / Backend-Focused Software Engineer with 4+ years of professional experience designing, building, and maintaining production-grade web and mobile systems. Strong expertise in backend API development, scalable system architecture, and cloud-native applications, with hands-on experience across Node.js, C#, .NET Core, Java, and Firebase.
+
+Proven track record of building high-availability, real-time platforms supporting large user bases, including social platforms with messaging, timelines, authentication, and third-party integrations. Experienced in debugging and triaging production issues, improving system reliability, and shipping clean, testable code in fast-paced agile environments.
+
+Skilled in containerized microservices using Docker and Kubernetes, implementing rolling deployments, health checks, scaling strategies, and resource optimization. Comfortable working with REST APIs, GraphQL, MongoDB, SQL, Elasticsearch, and cloud services on AWS.
+
+Strong foundation in software engineering principles, version control (Git/GitHub), automated testing, and collaborative development. Passionate about building reliable systems, continuous learning, and leveraging modern tooling (including AI-assisted development) to deliver high-quality, maintainable software.
 
 ---
 
